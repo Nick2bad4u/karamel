@@ -13,3 +13,4 @@ builds
 dist-*
 *.log
 *.scss.d.ts
+.history/*
